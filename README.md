@@ -1,3 +1,14 @@
-# R-code-of-thesis
-The full R code used throughout the thesis.
-The data used in this study are not publicly available due to ethical and privacy restrictions. This repository contains only the R code used for data preprocessing, multiple imputation, latent class analysis, sensitivity analyses, and prediction modelling.
+# R Code for Master's Thesis
+
+This repository contains the R code used for the analyses presented in the thesis:
+
+"Identifying subtypes of gestational diabetes mellitus using early pregnancy characteristics and predicting subtype membership."
+
+The repository includes code for:
+- Data preprocessing
+- Multiple imputation (MICE)
+- Latent class modelling (VarSelLCM)
+- Sensitivity analyses
+- Prediction modelling (multinomial LASSO)
+
+The underlying data are not publicly available due to ethical and privacy restrictions.
